@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rafaelaltieris
-- 👀 I’m interested in learning more for program in many things
-- 🌱 I’m currently learning Full stack by Santander
+- 👀I'm interested in learning more about programmation in many area
+- 🌱 I’m currently learning Full stack of Santander
 - 💞️ I’m looking to collaborate on System of fatec jahu
 - 📫 How to reach me ...
 
