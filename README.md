@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **raphaelaltieris@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rafael-altieris-96985920b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-altieris-96985920b" height="30" width="40" /></a>
