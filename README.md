@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **raphaelaltieris0@gmail.com**
+- 📫 How to reach me **raphaelaltieris@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
