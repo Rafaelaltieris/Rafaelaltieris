@@ -21,10 +21,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafaelaltieris&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Rafael altieris" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rafaelaltieris&show_icons=true&locale=en&theme=tokyonight" alt="Rafael Altieris Almeida dos Santos" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafaelaltieris&&theme=tokyonight" alt="Rafael Altieris Almeida dos Santos" /></p>
 
 ![Snake animation](https://github.com/Rafaelaltieris/Rafaelaltieris/blob/output/github-contribution-grid-snake-dark.svg)
