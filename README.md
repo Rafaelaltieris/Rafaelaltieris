@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rafaelaltieris&show_icons=true&locale=en&theme=tokyonight" alt="Rafael Altieris Almeida dos Santos" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafaelaltieris&&theme=tokyonight" alt="Rafael Altieris Almeida dos Santos" /></p>
+
+![Snake animation](https://github.com/Rafaelaltieris/Rafaelaltieris/blob/output/github-contribution-grid-snake-dark.svg)
