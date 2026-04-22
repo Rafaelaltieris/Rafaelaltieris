@@ -11,9 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rafael-altieris-96985920b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-altieris-96985920b" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rafael.altieris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafael.altieris" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ProfAltieris" chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ProfAltieris" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rafael-altieris-96985920b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-altieris-96985920b" height="30" width="40" /></a><a href="https://www.instagram.com/rafael.altieris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafael.altieris" height="30" width="40" /></a><a href="https://www.youtube.com/@ProfAltieris" chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ProfAltieris" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
